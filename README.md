@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co.com/pBHB4mBF/Green-Professional-Gamer-Linked-In-Banner.jpg">
+<img src="https://i.ibb.co.com/p6p6rhfC/final.jpg">
 
 <h3 align="center">Skilled Web Developer Designer and Wordpress specialist | Giving hand both individuals and commercial purposes</h3>
 
