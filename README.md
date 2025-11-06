@@ -1,5 +1,5 @@
 <img src="https://drive.google.com/drive/folders/1dQJJmxhQpDzvG16abfTiI2BgULIiVRRq?usp=drive_link">
-<h1 align="center">Hi 👋, I'm Firoz Kabir</h1>
+
 <h3 align="center">Skilled Web Developer Designer and Wordpress specialist | Giving hand both individuals and commercial purposes</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devmfk83&label=Profile%20views&color=0e75b6&style=flat" alt="devmfk83" /> </p>
