@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/drive/folders/1dQJJmxhQpDzvG16abfTiI2BgULIiVRRq?usp=sharing">
+<img src="[https://drive.google.com/drive/folders/1dQJJmxhQpDzvG16abfTiI2BgULIiVRRq?usp=sharing](https://i.ibb.co.com/pBHB4mBF/Green-Professional-Gamer-Linked-In-Banner.jpg)">
 
 <h3 align="center">Skilled Web Developer Designer and Wordpress specialist | Giving hand both individuals and commercial purposes</h3>
 
